@@ -27,7 +27,7 @@ namespace KAShop1
             app.MapStaticAssets();
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{Area=Admin}/{controller=Home}/{action=Index}/{id?}")
+                pattern: "{Area=User}/{controller=Home}/{action=Index}/{id?}")
                 .WithStaticAssets();
 
             app.Run();

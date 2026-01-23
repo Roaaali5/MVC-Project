@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\migrations\\20260120171129_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\migrations\\20260120171129_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\migrations\\20260120171129_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\migrations\\20260120171129_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -27,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\areas\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,21 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20260120171129_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Migrations\\20260120171129_Initial.cs",
-              "RelativeDocumentMoniker": "KAShop1\\Migrations\\20260120171129_Initial.cs",
-              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Migrations\\20260120171129_Initial.cs",
-              "RelativeToolTip": "KAShop1\\Migrations\\20260120171129_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T17:11:29.955Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -69,14 +56,14 @@
               "RelativeDocumentMoniker": "KAShop1\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "KAShop1\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T16:46:42.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\appsettings.json",
               "RelativeDocumentMoniker": "KAShop1\\appsettings.json",
@@ -84,25 +71,23 @@
               "RelativeToolTip": "KAShop1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-20T16:49:04.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T16:49:04.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "KAShop1",
+              "DocumentIndex": 4,
+              "Title": "KAShop1.csproj",
               "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\KAShop1.csproj",
               "RelativeDocumentMoniker": "KAShop1\\KAShop1.csproj",
               "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\KAShop1.csproj",
               "RelativeToolTip": "KAShop1\\KAShop1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-20T16:47:49.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T16:47:49.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "KAShop1\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
@@ -110,25 +95,36 @@
               "RelativeToolTip": "KAShop1\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-20T16:11:43.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T16:11:43.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Program.cs",
               "RelativeDocumentMoniker": "KAShop1\\Program.cs",
-              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Program.cs",
-              "RelativeToolTip": "KAShop1\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAIBJwBwAAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Program.cs*",
+              "RelativeToolTip": "KAShop1\\Program.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T15:43:16.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "20260120171129_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Migrations\\20260120171129_Initial.cs",
+              "RelativeDocumentMoniker": "KAShop1\\Migrations\\20260120171129_Initial.cs",
+              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Migrations\\20260120171129_Initial.cs",
+              "RelativeToolTip": "KAShop1\\Migrations\\20260120171129_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:11:29.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\User\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "KAShop1\\Areas\\User\\Views\\Home\\Index.cshtml",
@@ -136,8 +132,7 @@
               "RelativeToolTip": "KAShop1\\Areas\\User\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-20T15:42:03.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T15:42:03.839Z"
             },
             {
               "$type": "Document",
@@ -149,8 +144,7 @@
               "RelativeToolTip": "KAShop1\\Areas\\Admin\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T15:41:19.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T15:41:19.232Z"
             },
             {
               "$type": "Document",
@@ -162,8 +156,7 @@
               "RelativeToolTip": "KAShop1\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-01-20T15:39:36.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T15:39:36.496Z"
             }
           ]
         }
