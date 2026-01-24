@@ -233,3 +233,7 @@ C:\Users\LaptopCenter\Desktop\CMV\cmv1\KAShop1\KAShop1\obj\Release\net9.0\refint
 C:\Users\LaptopCenter\Desktop\CMV\cmv1\KAShop1\KAShop1\obj\Release\net9.0\KAShop1.pdb
 C:\Users\LaptopCenter\Desktop\CMV\cmv1\KAShop1\KAShop1\obj\Release\net9.0\KAShop1.genruntimeconfig.cache
 C:\Users\LaptopCenter\Desktop\CMV\cmv1\KAShop1\KAShop1\obj\Release\net9.0\ref\KAShop1.dll
+C:\Users\LaptopCenter\Desktop\CMV\cmv1\KAShop1\KAShop1\obj\Release\net9.0\compressed\o00lgn2b48-3w7jejt5b1.gz
+C:\Users\LaptopCenter\Desktop\CMV\cmv1\KAShop1\KAShop1\obj\Release\net9.0\compressed\om02bmttg2-1za78g898y.gz
+C:\Users\LaptopCenter\Desktop\CMV\cmv1\KAShop1\KAShop1\obj\Release\net9.0\compressed\kktqs2xyr5-vtm9dvzpet.gz
+C:\Users\LaptopCenter\Desktop\CMV\cmv1\KAShop1\KAShop1\obj\Release\net9.0\compressed\pwv2e9aj2r-jmgwmyfb49.gz
