@@ -3,68 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\areas\\admin\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\areas\\admin\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\areas\\admin\\views\\shared\\_scripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\areas\\admin\\views\\shared\\_scripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\areas\\admin\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\areas\\admin\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\areas\\admin\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\areas\\admin\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\areas\\admin\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\areas\\admin\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\areas\\admin\\views\\shared\\_head.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\areas\\admin\\views\\shared\\_head.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\areas\\admin\\views\\shared\\_scripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\areas\\admin\\views\\shared\\_scripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\migrations\\20260120171129_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\migrations\\20260120171129_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\kashop1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\kashop1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\areas\\user\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\areas\\user\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\areas\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\areas\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|c:\\users\\laptopcenter\\desktop\\cmv\\cmv1\\kashop1\\kashop1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9865E02A-1FBC-4DC9-AD0A-B9CAB59C9C68}|KAShop1\\KAShop1.csproj|solutionrelative:kashop1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,208 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Scripts.cshtml",
-              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Shared\\_Scripts.cshtml",
-              "RelativeDocumentMoniker": "KAShop1\\Areas\\Admin\\Views\\Shared\\_Scripts.cshtml",
-              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Shared\\_Scripts.cshtml",
-              "RelativeToolTip": "KAShop1\\Areas\\Admin\\Views\\Shared\\_Scripts.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwB8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-24T12:25:14.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Footer.cshtml",
-              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Shared\\_Footer.cshtml",
-              "RelativeDocumentMoniker": "KAShop1\\Areas\\Admin\\Views\\Shared\\_Footer.cshtml",
-              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Shared\\_Footer.cshtml",
-              "RelativeToolTip": "KAShop1\\Areas\\Admin\\Views\\Shared\\_Footer.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-24T12:22:11.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Sidebar.cshtml",
-              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Shared\\_Sidebar.cshtml",
-              "RelativeDocumentMoniker": "KAShop1\\Areas\\Admin\\Views\\Shared\\_Sidebar.cshtml",
-              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Shared\\_Sidebar.cshtml",
-              "RelativeToolTip": "KAShop1\\Areas\\Admin\\Views\\Shared\\_Sidebar.cshtml",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-24T12:19:07.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_Header.cshtml",
-              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Shared\\_Header.cshtml",
-              "RelativeDocumentMoniker": "KAShop1\\Areas\\Admin\\Views\\Shared\\_Header.cshtml",
-              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Shared\\_Header.cshtml",
-              "RelativeToolTip": "KAShop1\\Areas\\Admin\\Views\\Shared\\_Header.cshtml",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAwwLoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-24T12:15:33.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Head.cshtml",
-              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Shared\\_Head.cshtml",
-              "RelativeDocumentMoniker": "KAShop1\\Areas\\Admin\\Views\\Shared\\_Head.cshtml",
-              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Shared\\_Head.cshtml",
-              "RelativeToolTip": "KAShop1\\Areas\\Admin\\Views\\Shared\\_Head.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-24T12:11:14.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "KAShop1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "KAShop1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAAG4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAG8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-24T10:58:37.107Z",
+              "WhenOpened": "2026-01-28T13:58:50.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "KAShop1\\Areas\\Admin\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeToolTip": "KAShop1\\Areas\\Admin\\Views\\Shared\\_Sidebar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-28T13:47:55.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "KAShop1\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "KAShop1\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-28T13:32:09.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "KAShop1\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "KAShop1\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-28T12:11:50.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "KAShop1\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "KAShop1\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:10:46.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Scripts.cshtml",
+              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Shared\\_Scripts.cshtml",
+              "RelativeDocumentMoniker": "KAShop1\\Areas\\Admin\\Views\\Shared\\_Scripts.cshtml",
+              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Shared\\_Scripts.cshtml",
+              "RelativeToolTip": "KAShop1\\Areas\\Admin\\Views\\Shared\\_Scripts.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-28T13:59:14.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "KAShop1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "KAShop1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-24T10:40:51.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\appsettings.json",
-              "RelativeDocumentMoniker": "KAShop1\\appsettings.json",
-              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\appsettings.json",
-              "RelativeToolTip": "KAShop1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-20T16:49:04.373Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "KAShop1.csproj",
-              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\KAShop1.csproj",
-              "RelativeDocumentMoniker": "KAShop1\\KAShop1.csproj",
-              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\KAShop1.csproj",
-              "RelativeToolTip": "KAShop1\\KAShop1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-20T16:47:49.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "KAShop1\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "KAShop1\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-20T16:11:43.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Program.cs",
               "RelativeDocumentMoniker": "KAShop1\\Program.cs",
               "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Program.cs",
               "RelativeToolTip": "KAShop1\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwB0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T15:43:16.763Z",
+              "WhenOpened": "2026-01-28T14:01:37.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20260120171129_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Migrations\\20260120171129_Initial.cs",
-              "RelativeDocumentMoniker": "KAShop1\\Migrations\\20260120171129_Initial.cs",
-              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Migrations\\20260120171129_Initial.cs",
-              "RelativeToolTip": "KAShop1\\Migrations\\20260120171129_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T17:11:29.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "KAShop1\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "KAShop1\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T15:41:19.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "KAShop1\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "KAShop1\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T16:46:42.863Z"
+              "WhenOpened": "2026-01-28T12:28:27.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\User\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "KAShop1\\Areas\\User\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Areas\\User\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "KAShop1\\Areas\\User\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-20T15:42:03.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "KAShop1\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "KAShop1\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-01-20T15:39:36.496Z"
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "KAShop1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\LaptopCenter\\Desktop\\CMV\\cmv1\\KAShop1\\KAShop1\\Models\\Category.cs",
+              "RelativeToolTip": "KAShop1\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:24:08.323Z",
+              "EditorCaption": ""
             }
           ]
         }
