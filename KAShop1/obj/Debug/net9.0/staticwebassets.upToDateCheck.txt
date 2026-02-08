@@ -10,6 +10,10 @@ wwwroot\Admin\js\adminlte.js.map
 wwwroot\css\site.css
 wwwroot\css\styles.css
 wwwroot\favicon.ico
+wwwroot\images\36dd5724-05b0-407e-8a81-7d3191bee3e0.jpg
+wwwroot\images\4a6a2cf1-fcfa-4b03-b511-3d3583a4b84c.jpg
+wwwroot\images\d0a3d814-e8ad-49a5-8146-10dd57b80592.jfif
+wwwroot\images\e7e6d6d6-f3d0-474a-ab8f-c6e321619533.jpg
 wwwroot\js\scripts.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css

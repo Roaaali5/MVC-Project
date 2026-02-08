@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace KAShop1.Models
@@ -12,5 +13,8 @@ namespace KAShop1.Models
         [MinLength(3)]
         [Required]
         public string Name { get; set; }
+
+        [ValidateNever]
+        public List<Product> Products { get; set; }
     }
 }

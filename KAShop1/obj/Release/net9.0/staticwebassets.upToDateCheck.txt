@@ -72,6 +72,10 @@ wwwroot\Admin\img\user3-128x128.jpg
 wwwroot\Admin\img\user8-128x128.jpg
 wwwroot\Admin\js\adminlte.js
 wwwroot\Admin\js\adminlte.js.map
+wwwroot\images\36dd5724-05b0-407e-8a81-7d3191bee3e0.jpg
+wwwroot\images\4a6a2cf1-fcfa-4b03-b511-3d3583a4b84c.jpg
+wwwroot\images\d0a3d814-e8ad-49a5-8146-10dd57b80592.jfif
+wwwroot\images\e7e6d6d6-f3d0-474a-ab8f-c6e321619533.jpg
 C:\Users\LaptopCenter\Desktop\CMV\cmv1\KAShop1\KAShop1\wwwroot\css\site.css
 C:\Users\LaptopCenter\Desktop\CMV\cmv1\KAShop1\KAShop1\wwwroot\css\styles.css
 C:\Users\LaptopCenter\Desktop\CMV\cmv1\KAShop1\KAShop1\wwwroot\favicon.ico
